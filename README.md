@@ -2,7 +2,7 @@
 
 
 🧠 Computer science student at University Paris-Saclay </br>
-↘️ I create different projetcs to stay consistent and help myself learn basic skills </br>
+↘️ I create different projects to stay consistent and help myself learn basic skills </br>
 🖥️ Skills: C++, Python, Javascript, Java. </br>
 🔎 How to reach me: Check out my instagram! 
 
